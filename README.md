@@ -8,7 +8,7 @@ A simple little control that animates segments like Snapchat or Instagram Storie
 ![Screenshot](screenshot.png)
 
 ## Requirements
-- iOS 8.0+
+- iOS 11.0+
 - Xcode 8
 
 ## Installation
